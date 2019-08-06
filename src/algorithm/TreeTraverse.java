@@ -1,4 +1,4 @@
-package do2019;
+package algorithm;
 
 import java.util.List;
 import java.util.PriorityQueue;

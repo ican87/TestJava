@@ -1,4 +1,4 @@
-package do2019;
+package algorithm;
 
 /**
  * 1、输出结果如下：
