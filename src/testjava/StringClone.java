@@ -1,4 +1,4 @@
-package algorithm;
+package testjava;
 
 /**
  * 1、输出结果如下：
